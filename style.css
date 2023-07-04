@@ -1,0 +1,37 @@
+li{
+    list-style-type: none;
+    display:inline-block;
+    padding: 30px;
+    border-radius: 30px;
+    text-align: left;
+    color: #cebaba;
+}
+.header{
+    
+}
+.sidebar {
+    width: 200px;
+    height: 136vh;
+    background-color: #a9bcd0;
+    float: left;
+}
+.sidebar a {
+    display: block;
+    color: black;
+    padding: 16px;
+    text-decoration: none;
+}
+.sidebar a:hover {
+    background-color: #555;
+    color: white;
+}
+section {
+    padding: 20px;  
+}
+
+.footer{
+    background-color: #333;
+      color: #a49e9e;
+      padding: 20px;
+      text-align: center;
+}
